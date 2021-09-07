@@ -1,0 +1,136 @@
+.section1{
+    display: flex;
+    background-color:rgb(65, 105, 225);
+    
+}
+
+.logo{
+    padding-top: 10%;
+    width: 32%;
+    padding-left: 309%;
+    
+   
+}
+.nav-bar{
+    padding-top: 50%;
+    width: 50%;
+
+   
+}
+.nav-btn{
+    text-decoration: none;
+    padding: 10%;
+    color: white;
+    width: 45%;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17%;
+   
+  
+
+  
+}
+
+.nav-btn:active{
+    border: 2% dotted wheat;
+}
+.section2-btn{
+   border:2px solid rgb(255, 140, 0);
+   margin-left: 600%;
+   padding: 10% 18% ;
+   border-radius: 45%;
+   background-color:rgb(255, 140, 0) ;
+   text-decoration: none;
+   font-size: 20%;
+   color: white;
+   
+   
+}
+.section2-btn:hover{
+    background-color: white;
+    
+    color:rgb(255, 140, 0) ;
+}
+.section2-btn:active{
+    text-decoration: underline;
+}
+.section7{
+    display: flex;
+}
+.digitalboardpannel-des{
+    width: 500%;
+    padding-left: 50%;
+    font-size: 20%;
+    font-family: 'Titillium Web', sans-serif;
+}
+.start-btn{
+    text-decoration: none;
+    
+    background-color: rgb(255, 140, 0);
+    border-radius: 25%;
+    padding: 15% 25% 15% 25%;
+    margin-left: 200%;
+    color: white;
+    font-size: 20%;
+   
+}
+
+.start:hover{
+    background-color: white;
+    color:rgb(255, 140, 0);
+    border: 2px solid rgb(255, 140, 0);
+}
+.section8{
+    display: flex;
+}
+.digital-marketing-des{
+    width: 500%;
+    padding-left: 130%;
+    font-size: 20%;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.section9{
+    display: flex;
+}
+
+.portablependes{
+    width: 500%;
+    padding-left: 100%;
+    font-size: 20%;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.section4{
+    display: flex;
+}
+.wcu-desc1{
+    padding-top: 65%;
+}
+.wcu-desc2{
+    padding-top: 65%;
+}
+.feature{
+    width: 60%;
+    padding: 3%;
+
+}
+.feature h3{
+    padding: 10%;
+}
+.feature p{
+    text-align: justify;
+    padding: 10%;
+    font-size: 18%;
+   }
+
+.feature:hover{
+    background-color: rgb(175, 238, 238);
+    border-radius: 10%;
+}
+.partners h1{
+    padding-left: 700%;
+}
+.partners p{
+    padding-left: 400%;
+    font-size: 20%;
+}

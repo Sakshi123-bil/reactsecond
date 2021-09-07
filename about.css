@@ -1,0 +1,170 @@
+.section1{
+    display: flex;
+    background-color:rgb(65, 105, 225);
+    
+}
+
+.logo{
+    padding-top: 10px;
+    width: 32%;
+    padding-left: 309px;
+    
+   
+}
+.nav-bar{
+    padding-top: 50px;
+    width: 50%;
+
+   
+}
+.nav-btn{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    width: 45px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+   
+  
+
+  
+}
+
+.nav-btn:active{
+    border: 2px dotted wheat;
+}
+.section2{
+    display: flex;
+}
+.row1-l{
+    width: 500px;
+    padding-left: 300px;
+    font-size: 18px;
+    text-align: justify;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.row1-r{
+    width: 500px;
+    padding-left: 30px;
+    font-size: 18px;
+    text-align: justify;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.section3{
+    display: flex;
+}
+.mission-des{
+    background-color:rgb(227, 240, 240);
+    padding-left: 10px;
+    margin-left: 30px;
+}
+.mission-img{
+    width: 600px;
+    padding-left: 220px;
+}
+.mission-des h1{
+    padding-left: 50px;
+}
+.mission-des p{
+    width: 550px;
+    font-size: 20px;
+  
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.section4{
+    display: flex;
+}
+.section4-des{
+    width: 600px;
+    background-color: rgb(227, 240, 240);
+    margin-left: 100px;
+    
+   
+}
+.section4-des h1{
+   padding-left: 300px;
+  
+}
+.section4-des p{
+    padding-left: 150px;
+  width: 400px;
+  font-family: 'Hind Siliguri', sans-serif;
+  font-size: 20px;
+  
+ 
+}
+.section4 img{
+    padding-left: 150px;
+   width: 500px;
+   
+}
+.section5{
+    display: flex;
+}
+.history-des{
+    padding-left: 50px;
+}
+.section5 img{
+    width: 600px;
+    padding-left: 100px;
+}
+.history-des p{
+    width: 400px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 15px;
+    
+   
+}
+.history-des li{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 20px;
+}
+.section6{
+    background-color:rgb(98, 120, 184) ;
+}
+.section6 h1{
+    padding-left: 600px;
+}
+.contact-details{
+    display: flex;
+    background-color: rgb(98, 120, 184);
+    padding-left: 250px;
+}
+.contact-details p{
+    font-size: 20px;
+    color: white;
+}
+
+.contact-details img{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+}
+.contact-info{
+    padding: 15px;
+}
+.contact-btn{
+    background-color: rgb(255, 140, 0);
+    padding:15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-decoration: none;
+    margin-left: 650px;
+    border-radius: 20px;
+    
+}
+.contact-btn:hover{
+    background-color: rgb(98, 120, 184);
+    border:2px solid rgb(255, 140, 0);
+   
+}
+.social-media{
+    display: flex;
+    padding-left: 650px;
+}
+.social-media a img{
+    border-radius: 8px;
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+}

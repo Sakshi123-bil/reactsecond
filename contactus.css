@@ -1,0 +1,71 @@
+.section1{
+    display: flex;
+    background-color:rgb(65, 105, 225);
+   
+    
+}
+
+.logo{
+    padding-top: 10px;
+    width: 32%;
+    padding-left: 309px;
+    
+   
+}
+.nav-bar{
+    padding-top: 50px;
+    width: 50%;
+
+   
+}
+.nav-btn{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    width: 45px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+   
+  
+
+  
+}
+
+.nav-btn:active{
+    border: 2px dotted wheat;
+}
+.section2{
+    display: flex;
+    background-color:rgb(236, 238, 245) ;
+   
+}
+.images{
+   
+    width: 600px;
+    padding-left: 200px;
+   
+    
+    
+}
+.cu-des{
+    padding-left: 10px;
+}
+.img{
+    width: 500px;
+    height: 300px;
+    border: 10px solid white;
+    background-color: white;
+}
+.social-media{
+    display: flex;
+    margin-top: 10px;
+    padding-left: 200px;
+}
+.address-info{
+    padding-left: 250px;
+}
+.address-info a{
+    text-decoration: none;
+    color: blue;
+     font-size: 20px;
+}

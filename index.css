@@ -1,0 +1,234 @@
+.section1{
+    display: flex;
+    background-color:rgb(65, 105, 225);
+    
+}
+
+.logo{
+    padding-top: 10px;
+    width: 32%;
+    padding-left: 309px;
+    
+   
+}
+.nav-bar{
+    padding-top: 50px;
+    width: 50%;
+
+   
+}
+.nav-btn{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    width: 45px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+   
+  
+
+  
+}
+
+.nav-btn:active{
+    border: 2px dotted wheat;
+}
+
+.section2{
+    background-color:rgb(65, 105, 225) ;
+    display: flex;
+    padding-top: 70px;
+}
+
+.description1{
+    padding-left: 100px;
+    width: 40%;
+    color: white;
+    padding-bottom: 100px;
+}
+
+.digitalBoardImgsection {
+    width: 450px;
+    padding-left: 130px;
+    padding-right: 10px;
+    box-shadow: 20px solid red;
+  
+   
+    
+   
+    
+   
+}
+
+
+.digitalBoardImg{
+    position: relative;
+   
+   
+    
+    
+}
+
+.border-shadow-digital-board{
+   position: relative;
+   width: 500px;
+   top:372px;
+   left:40px;
+   margin-top: -50%;
+   
+   
+   
+
+    
+}
+
+
+.section2-btn1{
+    padding: 15px;
+    margin: 50px;
+    width: 145px;
+    border-radius: 25px;
+    color: white;
+    font-size: 15px;
+    background-color:rgb(255, 140, 0) ;
+    border:2px solid rgb(255, 140, 0);
+}
+
+.section2-btn2{
+    padding: 15px;
+    margin: 50px;
+    width: 145px;
+    font-size: 15px;
+    border-radius: 25px;
+    border:2px solid rgb(255, 140, 0);
+    background-color: rgb(65, 105, 225);
+    color:rgb(255, 140, 0);
+}
+
+
+
+.section2-btn1:hover{
+    background-color: rgb(65, 105, 225);
+    cursor: pointer;
+    
+   
+}
+
+.section2-btn2:hover{
+    background-color:rgb(255, 140, 0);
+    cursor: pointer;
+    color: white;
+   
+}
+.section4{
+    display: flex;
+}
+.wcu-desc1{
+    padding-top: 65px;
+}
+.wcu-desc2{
+    padding-top: 65px;
+}
+.feature{
+    width: 60%;
+    padding: 3px;
+
+}
+.feature h3{
+    padding: 10px;
+}
+.feature p{
+    text-align: justify;
+    padding: 10px;
+    font-size: 18px;
+   }
+
+.feature:hover{
+    background-color: rgb(175, 238, 238);
+    border-radius: 10px;
+}
+
+.section6{
+    display: flex;
+    padding: 50px 250px;
+    background-color:rgb(176, 224, 230) ;
+   
+}
+.service{
+    padding: 25px;
+    width: 220px;
+    margin:10px
+   
+}
+.service img{
+    width: 70px;
+    padding-left: 20px;
+  
+}
+.section6 p{
+    font-size: 20px;
+    font-family: 'Noto Sans TC', sans-serif;
+    
+}
+.service:hover{
+    background-color: wheat;
+    border-radius: 50px;
+}
+.readbtn{
+    text-decoration: none;
+    color:orangered;
+}
+.section7{
+    display: flex;
+}
+.digitalboardpannel-des{
+    width: 500px;
+    padding-left: 50px;
+    font-size: 20px;
+    font-family: 'Titillium Web', sans-serif;
+}
+.know-more-btn{
+    text-decoration: none;
+    
+    background-color: rgb(255, 140, 0);
+    border-radius: 25px;
+    padding: 15px 25px 15px 25px;
+    margin-left: 200px;
+    color: white;
+    font-size: 20px;
+   
+}
+
+.know-more-btn:hover{
+    background-color: white;
+    color:rgb(255, 140, 0);
+    border: 2px solid rgb(255, 140, 0);
+}
+.section8{
+    display: flex;
+}
+.digital-marketing-des{
+    width: 500px;
+    padding-left: 100px;
+    font-size: 20px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.section9{
+    display: flex;
+}
+
+.portablependes{
+    width: 500px;
+    padding-left: 50px;
+    font-size: 20px;
+    font-family: 'Titillium Web', sans-serif;
+}
+.section10{
+    background-color:rgb(245, 255, 250);
+}
+.team-img{
+    width: 500px;
+    height: 450px;
+    padding-left: 100px;
+}
